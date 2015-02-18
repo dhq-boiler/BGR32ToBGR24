@@ -1,0 +1,5 @@
+*.v12.suo
+bin/
+obj/
+dll/
+packages/
