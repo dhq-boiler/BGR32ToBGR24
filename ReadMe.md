@@ -1,4 +1,4 @@
-﻿BGR32ToBGR24 (c) 2015 dhq_boiler.
+BGR32ToBGR24 (c) 2015 dhq_boiler.
 
 ディレクトリツリー内のたくさんのBGR32形式ビットマップをBGR24形式ビットマップに変換できます．
 .NET Framework 4.5が必要です．
@@ -9,5 +9,6 @@ BGR32形式でかつOpenCVで読み込み不可能なビットマップについ
 
 本プログラムは以下のライブラリを使用しています．
 
-Windows API Code Pack 1.1 (c) 2010 Microsoft
+Windows API Code Pack 1.1 (c) 2010 Microsoft (MIT License)
+
 OpenCvSharp (c) 2014-2015 shimat (BSD 3-Clause License)
